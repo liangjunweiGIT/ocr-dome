@@ -7,7 +7,7 @@ import java.util.HashMap;
 
 /**
  * @Description: https://cloud.baidu.com/doc/OCR/OCR-Java-SDK.html#.E6.96.B0.E5.BB.BAAipOcr
- * @Author Created by junwei.liang on 2019/6/17 11:52
+ * @Author Created by ljw on 2019/6/17 11:52
  */
 public class Sample {
     //设置APPID/AK/SK
